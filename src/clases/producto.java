@@ -11,5 +11,6 @@ public class producto {
         this.nombre=nom;
         this.precio=precio;
         this.cantidad=cant;
+        //ejemplo
     }
 }
